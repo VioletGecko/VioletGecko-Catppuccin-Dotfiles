@@ -1,0 +1,34 @@
+Changelog
+------------------------------
+Rastaban - Conky Theme
+[ Draco Themes Pack ] 
+
+by Closebox73
+
+Social
+X		: https://twitter.com/closebox73
+Discord	: https://discord.com/users/1115644269802311750
+Github	: https://github.com/closebox73
+Pling	: https://pling.com/u/closebox73x
+------------------------------
+
+v1.0
+date : 12 May 2022
+-	Initial release
+
+
+v1.6
+date : 22 Jan 2023
+-	Add override_utf8_locale line
+-	Little extra line in scripts
+-	Rearrange config line
+-	Minimize archive size
+-	Add Changelog file
+
+
+v2.0
+date : 27 Sep 2023
+-	Change name to be Rastaban ( Internal purpose only )
+-	New weather.sh
+-	Add Fahrenheit version
+-	Some minor change
